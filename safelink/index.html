@@ -175,7 +175,7 @@ p.desc{text-shadow:0 1px 1px #fff,0 -1px 1px #000}
 //<![CDATA[
 var currentURL=location.href;
 var str = currentURL;
-var res = str.replace("http://aksesglobalmultimedia.com/ssafelink/?url=", "");
+var res = str.replace("http://aksesglobalmultimedia.com/safelink/?url=", "");
 $(".Visit_Link").hide();
 function changeLink(){
     var decodedString = Base64.decode(res);
@@ -363,7 +363,7 @@ if(x=="1"){xxx="the-way-to-start-business-at-home.html"}
 if(x=="2"){xxx="10-tips-for-start-small-business-startup.html"}
 if(x=="3"){xxx="advantages-of-being-home-business-owner.html"}
 if(x=="4"){xxx="practice-environmental-qwareness-to-our.html"}
-output.value = "http://aksesglobalmultimedia.com/ssafelink/"+xxx+"?url=" + Base64.encode(this.value); //change with your link
+output.value = "http://aksesglobalmultimedia.com/safelink/"+xxx+"?url=" + Base64.encode(this.value); //change with your link
     } else {
       output.value = "";
     }
