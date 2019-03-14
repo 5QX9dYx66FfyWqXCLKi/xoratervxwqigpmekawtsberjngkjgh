@@ -1,0 +1,18 @@
+document.write( '<div style=\"background-color: rgb(162, 196, 201); border-radius: 10px; border: 4px outset rgb(255, 255, 255); padding: 10px; height: 430px; overflow: auto; width: auto;\" >\n' );
+document.write( '            <a class=\"navbar-brand\" href=\"../index.html\">\n' );
+document.write( '              <img src=\"upload/logo.png\" width=\"149\" height=\"57\" class=\"d-inline-block align-top\" alt=\"agm pulsa dan ppob\"> </a><br>\n' );
+document.write( '            <a class=\"navbar-brand\" href=\"../index.html\">\n' );
+document.write( '              <img src=\"upload/logo.png\" width=\"149\" height=\"57\" class=\"d-inline-block align-top\" alt=\"agm pulsa dan ppob\"> </a><br>\n' );
+document.write( '            <a class=\"navbar-brand\" href=\"../index.html\">\n' );
+document.write( '              <img src=\"upload/logo.png\" width=\"149\" height=\"57\" class=\"d-inline-block align-top\" alt=\"agm pulsa dan ppob\"> </a><br>\n' );
+document.write( '            <a class=\"navbar-brand\" href=\"../index.html\">\n' );
+document.write( '              <img src=\"upload/logo.png\" width=\"149\" height=\"57\" class=\"d-inline-block align-top\" alt=\"agm pulsa dan ppob\"> </a><br>\n' );
+document.write( '            <a class=\"navbar-brand\" href=\"../index.html\">\n' );
+document.write( '              <img src=\"upload/logo.png\" width=\"149\" height=\"57\" class=\"d-inline-block align-top\" alt=\"agm pulsa dan ppob\"> </a><br>\n' );
+document.write( '            <a class=\"navbar-brand\" href=\"../index.html\">\n' );
+document.write( '              <img src=\"upload/logo.png\" width=\"149\" height=\"57\" class=\"d-inline-block align-top\" alt=\"agm pulsa dan ppob\"> </a><br>\n' );
+document.write( '            <a class=\"navbar-brand\" href=\"../index.html\">\n' );
+document.write( '              <img src=\"upload/logo.png\" width=\"149\" height=\"57\" class=\"d-inline-block align-top\" alt=\"agm pulsa dan ppob\"> </a><br>\n' );
+document.write( '            <a class=\"navbar-brand\" href=\"../index.html\">\n' );
+document.write( '              <img src=\"upload/logo.png\" width=\"149\" height=\"57\" class=\"d-inline-block align-top\" alt=\"agm pulsa dan ppob\"> </a><br>\n' );
+document.write( '          </div>' );
