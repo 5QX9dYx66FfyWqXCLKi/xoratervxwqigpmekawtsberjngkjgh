@@ -12,7 +12,7 @@ document.write( '<body>\n' );
 document.write( '  <div class=\"py-3\" style=\"\">\n' );
 document.write( '    <div class=\"container\">\n' );
 document.write( '      <div class=\"row\">\n' );
-document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../prambors.html\"><img src=\"aset/prambors.jpg\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
+document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/prambors.html\"><img src=\"aset/prambors.jpg\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"cinde-fm.html\"><img src=\"aset/cindefm.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <div class=\"col-md-1 col-3 my-1\" style=\"\"><img class=\"img-fluid d-block\" src=\"aset/cindefm.png\"></div>\n' );
 document.write( '        <div class=\"col-md-1 col-3 my-1\" style=\"\"><img class=\"img-fluid d-block\" src=\"aset/kc10.jpg\"></div>\n' );
