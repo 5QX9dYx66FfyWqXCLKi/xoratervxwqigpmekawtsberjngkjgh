@@ -26,7 +26,7 @@ document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../r
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/elshinta.html\"><img src=\"../radio/upload/elshinta.png\" alt=\"Elshinta Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '      </div>\n' );
 document.write( '      <div class=\"row\">\n' );
-document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/index.html\"><img src=\"../radio/upload/radio-online-agm-1.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
+document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/virgin.html\"><img src=\"../radio/upload/virgin.png\" alt=\"Virgin Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/index.html\"><img src=\"../radio/upload/radio-online-agm-1.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/index.html\"><img src=\"../radio/upload/radio-online-agm-1.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/index.html\"><img src=\"../radio/upload/radio-online-agm-1.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
