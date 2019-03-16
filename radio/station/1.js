@@ -16,7 +16,7 @@ document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../r
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/cinde-fm.html\"><img src=\"../radio/upload/cindefm.png\" alt=\"Cinde FM Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/kc-10.html\"><img src=\"../radio/upload/kc10.jpg\" alt=\"KC 10 FM Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/bens.html\"><img src=\"../radio/upload/bens.png\" alt=\"Bens Radio Online AGM\" class=\"img-fluid\"></a>\n' );
-document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/index.html\"><img src=\"../radio/upload/cindefm.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
+document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/iradio.html\"><img src=\"../radio/upload/iradio.png\" alt=\"I Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/index.html\"><img src=\"../radio/upload/radio-online-agm-1.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/index.html\"><img src=\"../radio/upload/radio-online-agm-1.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/index.html\"><img src=\"../radio/upload/radio-online-agm-1.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
