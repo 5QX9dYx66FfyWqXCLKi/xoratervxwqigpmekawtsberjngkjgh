@@ -34,7 +34,7 @@ document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../r
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/radiodangdut.html\"><img src=\"../radio/upload/radiodangdut.png\" alt=\"Radio Dangdut Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/hitzfm.html\"><img src=\"../radio/upload/hitzfm.png\" alt=\"Hitz Fm Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/mqfm.html\"><img src=\"../radio/upload/mqfm.png\" alt=\"Mq FM Radio Online AGM\" class=\"img-fluid\"></a>\n' );
-document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/index.html\"><img src=\"../radio/upload/radio-online-agm-1.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
+document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/globalradio.html\"><img src=\"../radio/upload/globalradio.png\" alt=\"Global fm Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/index.html\"><img src=\"../radio/upload/radio-online-agm-1.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/index.html\"><img src=\"../radio/upload/radio-online-agm-1.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/index.html\"><img src=\"../radio/upload/radio-online-agm-1.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
