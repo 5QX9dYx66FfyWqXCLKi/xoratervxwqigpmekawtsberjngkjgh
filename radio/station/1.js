@@ -31,7 +31,7 @@ document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../r
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/cosmopolitan.html\"><img src=\"../radio/upload/cosmopolitan.png\" alt=\"Cosmopolitan Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/mendutfm.html\"><img src=\"../radio/upload/mendutfm.png\" alt=\"Mendhut fm Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/indikafm.html\"><img src=\"../radio/upload/indikafm.png\" alt=\"Indika fm Radio Online AGM\" class=\"img-fluid\"></a>\n' );
-document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/index.html\"><img src=\"../radio/upload/radio-online-agm-1.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
+document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/radiodangdut.html\"><img src=\"../radio/upload/radiodangdut.png\" alt=\"Radio Dangdut Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/index.html\"><img src=\"../radio/upload/radio-online-agm-1.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/index.html\"><img src=\"../radio/upload/radio-online-agm-1.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
 document.write( '        <a class=\"col-md-1 col-3 my-1\" style=\"\" href=\"../radio/index.html\"><img src=\"../radio/upload/radio-online-agm-1.png\" alt=\"Radio Online AGM\" class=\"img-fluid\"></a>\n' );
