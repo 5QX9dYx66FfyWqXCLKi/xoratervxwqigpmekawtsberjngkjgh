@@ -151,7 +151,22 @@
     z-index: 1000;" data-key="$812975748999788" data-live="true" data-share="false" data-ratio="0.5625" data-logo="">
             <video autoplay="true" stretch="true">
               <source type="application/x-mpegurl" src="http://live.wmncdn.net/safaritv2/live2.stream/index.m3u8">
+            </video>xxx
+            <!-- CSS  -->
+            <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
+            <!-- HTML -->
+            <video id="hls-example" class="video-js vjs-default-skin" width="400" height="300" controls="">
+              <source type="application/x-mpegURL" src="https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8">
             </video>
+            <!-- JS code -->
+            <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+            <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.14.1/videojs-contrib-hls.js"></script>
+            <script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
+            <script>
+              var player = videojs('hls-example');
+              player.play();
+            </script>
           </div>
         </div>
         <div class="col-md-6">
@@ -505,7 +520,6 @@
     </script>
     <!--adblok anti desibel javascript end-->
   </b>
-  <pingendo onclick="window.open('https://pingendo.com/', '_blank')" style="cursor:pointer;position: fixed;bottom: 20px;right:20px;padding:4px;background-color: #00b0eb;border-radius: 8px; width:220px;display:flex;flex-direction:row;align-items:center;justify-content:center;font-size:14px;color:white">Made with Pingendo Free&nbsp;&nbsp;<img src="https://pingendo.com/site-assets/Pingendo_logo_big.png" class="d-block" alt="Pingendo logo" height="16"></pingendo>
 </body>
 
 </html>
