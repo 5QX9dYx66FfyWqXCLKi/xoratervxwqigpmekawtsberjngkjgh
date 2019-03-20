@@ -135,7 +135,15 @@
           </div>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe src="http://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/playlist.m3u8" allowfullscreen="" class="embed-responsive-item"></iframe>
-          </div>
+          </div> vvv <video id="example-video" width="600" height="300" class="video-js vjs-default-skin" controls="">
+            <source src="http://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/playlist.m3u8" type="application/x-mpegURL">
+          </video>
+          <script src="video.js"></script>
+          <script src="videojs-contrib-hls.min.js"></script>
+          <script>
+            var player = videojs('example-video');
+            player.play();
+          </script>
         </div>
         <div class="col-md-6">
           <!--OnlineRadioBox Player widget-->
