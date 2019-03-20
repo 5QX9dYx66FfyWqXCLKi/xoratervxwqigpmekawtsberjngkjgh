@@ -5,6 +5,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+  <!-- CSS Video -->
+  <link href="css.css" rel="stylesheet">
+  <!-- CSS Video -->
   <link rel="stylesheet" href="theme.css" type="text/css">
   <link rel="icon" href="upload/favicon.ico">
   <title>TV Onlin AGM</title>
@@ -130,44 +133,20 @@
     <div class="container">
       <div class="row">
         <div class="my-2 col-md-6">
-          <div class="embed-responsive embed-responsive-16by9">
-            <video src="https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8" class="embed-responsive-item" controls="controls"> Your browser does not support HTML5 video. </video>
-          </div> vvv
-          <link rel="stylesheet" href="//releases.flowplayer.org/7.0.4/commercial/skin/skin.css">
-          <style>
-          </style>
-          <script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
-          <script src="//releases.flowplayer.org/7.0.4/commercial/flowplayer.min.js"></script>
-          <script src="//releases.flowplayer.org/hlsjs/flowplayer.hlsjs.min.js"></script>
-          <script> flowplayer(function (api) {
-    api.on("load", function (e, api, video) {
-      $("#vinfo").text(api.engine.engineName + " engine playing " + video.type);
-    }); });
-  </script>
-          <div class="flowplayer fixed-controls no-toggle no-time play-button obj" style="    width: 85.5%;
-    height: 80%;
-    margin-left: 7.2%;
-    margin-top: 6%;
-    z-index: 1000;" data-key="$812975748999788" data-live="true" data-share="false" data-ratio="0.5625" data-logo="">
-            <video autoplay="true" stretch="true">
-              <source type="application/x-mpegurl" src="http://live.wmncdn.net/safaritv2/live2.stream/index.m3u8">
-            </video>xxx
-            <!-- CSS  -->
-            <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
-            <!-- HTML -->
-            <video id="hls-example" class="video-js vjs-default-skin" width="400" height="300" controls="">
-              <source type="application/x-mpegURL" src="https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8">
-            </video>
-            <!-- JS code -->
-            <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
-            <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.14.1/videojs-contrib-hls.js"></script>
-            <script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
-            <script>
-              var player = videojs('hls-example');
-              player.play();
-            </script>
-          </div>
+          <!-- m3u8 Video -->
+          <video id="hls-example" class="video-js vjs-default-skin" width="400" height="300" controls="">
+            <source type="application/x-mpegURL" src="http://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/playlist.m3u8">
+          </video>
+          <!-- JS code -->
+          <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+          <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.14.1/videojs-contrib-hls.js"></script>
+          <script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
+          <script>
+            var player = videojs('hls-example');
+            player.play();
+          </script>
+          <!-- m3u8 Video -->
         </div>
         <div class="col-md-6">
           <!--OnlineRadioBox Player widget-->
