@@ -131,16 +131,28 @@
       <div class="row">
         <div class="my-2 col-md-6">
           <div class="embed-responsive embed-responsive-16by9">
-            <video src="http://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/playlist.m3u8" class="embed-responsive-item" controls="controls"> Your browser does not support HTML5 video. </video>
-          </div> vvv <video id="example-video" width="600" height="300" class="video-js vjs-default-skin" controls="">
-            <source src="http://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/playlist.m3u8" type="application/x-mpegURL">
-          </video>
-          <script src="video.js"></script>
-          <script src="videojs-contrib-hls.min.js"></script>
-          <script>
-            var player = videojs('example-video');
-            player.play();
-          </script>
+            <video src="https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8" class="embed-responsive-item" controls="controls"> Your browser does not support HTML5 video. </video>
+          </div> vvv
+          <link rel="stylesheet" href="//releases.flowplayer.org/7.0.4/commercial/skin/skin.css">
+          <style>
+          </style>
+          <script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
+          <script src="//releases.flowplayer.org/7.0.4/commercial/flowplayer.min.js"></script>
+          <script src="//releases.flowplayer.org/hlsjs/flowplayer.hlsjs.min.js"></script>
+          <script> flowplayer(function (api) {
+    api.on("load", function (e, api, video) {
+      $("#vinfo").text(api.engine.engineName + " engine playing " + video.type);
+    }); });
+  </script>
+          <div class="flowplayer fixed-controls no-toggle no-time play-button obj" style="    width: 85.5%;
+    height: 80%;
+    margin-left: 7.2%;
+    margin-top: 6%;
+    z-index: 1000;" data-key="$812975748999788" data-live="true" data-share="false" data-ratio="0.5625" data-logo="">
+            <video autoplay="true" stretch="true">
+              <source type="application/x-mpegurl" src="http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8">
+            </video>
+          </div>
         </div>
         <div class="col-md-6">
           <!--OnlineRadioBox Player widget-->
