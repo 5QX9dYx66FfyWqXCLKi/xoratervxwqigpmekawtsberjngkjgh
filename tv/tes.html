@@ -1,0 +1,89 @@
+<!doctype html>
+
+<html>
+
+<head>
+   <meta charset="utf-8">
+
+   <title>Flowplayer overlay plugin - Bootstrap · Standalone demo · Flowplayer</title>
+
+   <!-- optimize mobile versions -->
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   <!-- The Flowplayer skin -->
+   <link rel="stylesheet" href="https://releases.flowplayer.org/7.2.7/skin/skin.css">
+
+   <!-- Minimal styling for this standalone page (can be removed) -->
+   <style>body {
+      font-family: "myriad pro", tahoma, verdana, arial, sans-serif;
+      font-size: 14px;
+      margin: 0;
+      padding: 0;
+   }
+   #content {
+      margin: 50px auto;
+      max-width: 982px;
+   }
+
+</style>
+
+      <!-- Flowplayer depends on jquery for video tag based setups -->
+   <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+   <!-- hls.js -->
+   <script src="https://cdn.jsdelivr.net/npm/hls.js@0.11.0/dist/hls.light.min.js"></script>
+
+   <!-- Flowplayer-->
+   <script src="https://releases.flowplayer.org/7.2.7/flowplayer.min.js"></script>
+
+<!-- bootstrap modal vendor stylesheet -->
+<link rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+      integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+      crossorigin="anonymous">
+
+<!-- bootstrap modal vendor script -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous">
+</script>
+<!-- the overlay plugin -->
+<script src="https://releases.flowplayer.org/overlay/flowplayer.overlay.min.js"></script>
+<!-- the bootstrap vendor overlay wrapper -->
+<script src="https://releases.flowplayer.org/overlay/vendors/flowplayer.overlay.bootstrap.js"></script>
+
+</head>
+
+<body>
+<div id="content">
+
+<p><button id="modal-trigger" class="btn btn-primary">Show video in bootstrap modal</button></p>
+
+<div id="fp-modal"></div>
+
+<script>
+flowplayer("#fp-modal", {
+    ratio: 9/16,
+
+    // overlay plugin using bootstrap modal vendor
+    overlay: {
+        trigger: "#modal-trigger",
+        vendor: "bootstrap",
+        title: "The New Flowplayer",
+        size: "lg"
+    },
+
+    clip: {
+        sources: [
+            { type: "application/x-mpegurl",
+              src:  "http://moiptvhls-i.akamaihd.net/hls/live/652314/HQs/chunklist.m3u8" },
+            { type: "video/mp4",
+              src:  "http://moiptvhls-i.akamaihd.net/hls/live/652314/HQs/chunklist.m3u8" }
+        ]
+    }
+});
+</script>
+
+</div><!--/end content -->
+</body>
+
+</html>
