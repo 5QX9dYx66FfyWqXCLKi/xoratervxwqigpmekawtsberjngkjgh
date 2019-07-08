@@ -7,9 +7,9 @@ document.write( '            <a class=\"btn btn-facebook btn-block m-2\" href=\"
 document.write( '            <a class=\"btn btn-facebook btn-block m-2\" href=\"deposit.html\">Cara Deposit Saldo</a>\n' );
 document.write( '          </div>\n' );
 document.write( '          <div class=\"col-md-6\">\n' );
-document.write( '            <a class=\"btn btn-facebook btn-block m-2\" href=\"#\">Cara Seting Telegram</a>\n' );
+document.write( '            <a class=\"btn btn-facebook btn-block m-2\" href=\"http://aksesglobalmultimedia.com/seting-telegram.html\">Cara Seting Telegram</a>\n' );
 document.write( '            <a class=\"btn btn-facebook btn-block m-2\" href=\"#\">Cara Seting GTalk / Hangout</a>\n' );
-document.write( '            <a class=\"btn btn-facebook btn-block m-2\" href=\"#\">Cara Seting Jabber</a>\n' );
+document.write( '            <a class=\"btn btn-facebook btn-block m-2\" href=\"https://www.youtube.com/results?search_query=jabber+agm+pulsa\">Cara Seting Jabber</a>\n' );
 document.write( '          </div>\n' );
 document.write( '        </div>\n' );
 document.write( '      </div>\n' );
