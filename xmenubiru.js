@@ -4,7 +4,7 @@ document.write( '        <div class=\"row\">\n' );
 document.write( '          <div class=\"col-md-6\">\n' );
 document.write( '            <a class=\"btn btn-facebook btn-block m-2\" href=\"#\">Cara Daftar Menjadi Mitra</a>\n' );
 document.write( '            <a class=\"btn btn-facebook btn-block m-2\" href=\"#\">Cara Daftar Menjadi Mitra H2H</a>\n' );
-document.write( '            <a class=\"btn btn-facebook btn-block m-2\" href=\"deposit.html\">Cara Deposit Saldo</a>\n' );
+document.write( '            <a class=\"btn btn-facebook btn-block m-2\" href=\"http://aksesglobalmultimedia.com/deposit.html\">Cara Deposit Saldo</a>\n' );
 document.write( '          </div>\n' );
 document.write( '          <div class=\"col-md-6\">\n' );
 document.write( '            <a class=\"btn btn-facebook btn-block m-2\" href=\"http://aksesglobalmultimedia.com/seting-telegram.html\">Cara Seting Telegram</a>\n' );
