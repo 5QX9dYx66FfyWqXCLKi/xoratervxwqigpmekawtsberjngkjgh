@@ -1,4 +1,8 @@
-User-agent: *
+User-agent: Mediapartners-Google
 Disallow: 
+
+User-agent: *
+Disallow: /search
+Allow: /
+
 Sitemap: http://aksesglobalmultimedia.com/sitemap.xml
-Sitemap: http://aksesglobalmultimedia.com/sitemap.html
