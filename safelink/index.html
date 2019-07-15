@@ -363,12 +363,13 @@ Sekarang Anda bisa mendapatkan tema ini. Silakan, kunjungi posting ini <a href='
     input = document.getElementById('inputURL');
   input.onkeyup = function() {
     if (input.value != "") {
-var x=Math.floor((Math.random()*4)+ 1);
+var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
 if(x=="1"){xxx="the-way-to-start-business-at-home.html"}
 if(x=="2"){xxx="10-tips-for-start-small-business-startup.html"}
 if(x=="3"){xxx="advantages-of-being-home-business-owner.html"}
 if(x=="4"){xxx="practice-environmental-qwareness-to-our.html"}
+if(x=="5"){xxx="bitcoin-cryptography.html"}
 output.value = "http://aksesglobalmultimedia.com/safelink/"+xxx+"?url=" + Base64.encode(this.value); //change with your link
     } else {
       output.value = "";
