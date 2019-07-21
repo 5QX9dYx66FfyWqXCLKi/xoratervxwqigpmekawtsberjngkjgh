@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: http://aksesglobalmultimedia.com/sitemap.xml
-Sitemap: http://aksesglobalmultimedia.com/sitemap.html
