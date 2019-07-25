@@ -4,7 +4,7 @@ document.write( '      <button class=\"navbar-toggler navbar-toggler-right\" typ
 document.write( '        <span class=\"navbar-toggler-icon\"></span>\n' );
 document.write( '      </button>\n' );
 document.write( '      <a class=\"navbar-brand\" href=\"index.html\">\n' );
-document.write( '        <img src=\"upload/logo.png\" width=\"149\" height=\"57\" class=\"d-inline-block align-top\" alt=\"agm pulsa dan ppob\"> </a>\n' );
+document.write( '        <img src=\"upload/logo.webp\" width=\"149\" height=\"57\" class=\"d-inline-block align-top\" alt=\"agm pulsa dan ppob\"> </a>\n' );
 document.write( '      <div class=\"collapse navbar-collapse justify-content-start\" id=\"navbarSupportedContent\">\n' );
 document.write( '        <ul class=\"navbar-nav ml-auto p-2\">\n' );
 document.write( '          <b>\n' );
