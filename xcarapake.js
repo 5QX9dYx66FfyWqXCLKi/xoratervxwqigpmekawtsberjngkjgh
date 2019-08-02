@@ -60,7 +60,7 @@ document.write(' </span>\n');
 document.write(' <br>\n');
 document.write(' <span style=\"font-family: "arial" , "helvetica" , sans-serif;\"> Format : <nominal>.<no token>.<no hp tujuan>.<pin></span>\n');
 document.write(' <br>\n');
-document.write(' <span style=\"font-family: "arial" , "helvetica" , sans-serif;\"> Contoh : PLN20.34012312345.081234567890.1234</span>\n');
+document.write(' <span style=\"font-family: "arial" , "helvetica" , sans-serif;\"> Contoh : PLN20.34012312345.081xx.1234</span>\n');
 document.write(' </li>\n');
 document.write(' <br>\n');
 document.write(' <li>\n');
