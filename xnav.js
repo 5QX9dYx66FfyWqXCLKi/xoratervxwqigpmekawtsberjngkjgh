@@ -31,7 +31,7 @@ document.writeln("             </li> ");
 document.writeln("           </b> "); 
 document.writeln("           <b> "); 
 document.writeln("             <li class=\"nav-item dropdown\"> "); 
-document.writeln("               <a class=\"nav-link dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\"><b>Cara Transaksi</b></a> "); 
+document.writeln("               <a class=\"nav-link dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\"><b>Panduan Transaksi</b></a> "); 
 document.writeln("               <div class=\"dropdown-menu\"> "); 
 document.writeln("                 <a class=\"dropdown-item\" href=\"http://aksesglobalmultimedia.com/cara-transaksi.html\"><b>Format Transaksi</b></a> "); 
 document.writeln("                 <a class=\"dropdown-item\" href=\"http://aksesglobalmultimedia.com/daftar-master-h2h.html\"><b>Cara Daftar Master MD / H2H</b></a> "); 
