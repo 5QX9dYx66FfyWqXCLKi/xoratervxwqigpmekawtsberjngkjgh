@@ -27,7 +27,7 @@ if(x=="3"){xxx="advantages-of-being-home-business-owner.html"}
 if(x=="4"){xxx="practice-environmental-qwareness-to-our.html"}
 if(x=="5"){xxx="bitcoin-cryptography.html"}
 if(x=="6"){xxx="ethereum-is-also-a-developing-cryptocurrency-in-Indonesia.html"}
-if(x=="7"){xxx="green-heaven-be-good-had-replenish.html"}a_to_ve[i].href="http://aksesglobalmultimedia.com/safelink/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="7"){xxx="green-heaven-be-good-had-replenish.html"}a_to_ve[i].href="https://aksesglobalmultimedia.com/safelink/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
