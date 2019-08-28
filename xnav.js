@@ -3,7 +3,7 @@ document.writeln("     <div class=\"container\"> ");
 document.writeln("       <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\"> "); 
 document.writeln("         <span class=\"navbar-toggler-icon\"></span> "); 
 document.writeln("       </button> "); 
-document.writeln("       <a class=\"navbar-brand\" href=\"http://aksesglobalmultimedia.com/"> "); 
+document.writeln("       <a class=\"navbar-brand\" href=\"http://aksesglobalmultimedia.com\"> "); 
 document.writeln("         <img src=\"http://aksesglobalmultimedia.com/upload/logo.png\" width=\"149\" height=\"57\" class=\"d-inline-block align-top\" alt=\"agm pulsa dan ppob\"> </a> "); 
 document.writeln("       <div class=\"collapse navbar-collapse justify-content-start\" id=\"navbarSupportedContent\"> "); 
 document.writeln("         <ul class=\"navbar-nav ml-auto p-2\"> "); 
