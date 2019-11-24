@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://aksesglobalmultimedia.com/sitemap.xml
+Sitemap: https://aksesglobalmultimedia.com/sitemap.xml
