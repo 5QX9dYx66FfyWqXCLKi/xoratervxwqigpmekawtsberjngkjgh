@@ -4101,9 +4101,9 @@ button.close {
   padding: 1rem;
   border-top: 1px solid #e9ecef; }
   .modal-footer > :not(:first-child) {
-    margin-left: .25rem; }
+    margin-left: .10rem; }
   .modal-footer > :not(:last-child) {
-    margin-right: .25rem; }
+    margin-right: .10rem; }
 
 .modal-scrollbar-measure {
   position: absolute;
