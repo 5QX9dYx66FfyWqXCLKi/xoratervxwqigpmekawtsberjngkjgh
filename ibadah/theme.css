@@ -4576,6 +4576,14 @@ button.bg-light:hover,
 button.bg-light:focus {
   background-color: #dadada !important; }
 
+  .bg-putih {
+    background-color: #ffffff !important; }
+  
+  a.bg-putih:hover, a.bg-putih:focus,
+  button.bg-putih:hover,
+  button.bg-putih:focus {
+    background-color: #ffffff !important; }
+
 .bg-dark {
   background-color: #151515 !important; }
 
