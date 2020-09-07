@@ -18,9 +18,9 @@ document.write( '                      <span style=\"font-family: "arial" , "hel
 document.write( '                        <b>Daftar Menjadi MASTER</b>\n' );
 document.write( '                      </span>\n' );
 document.write( '                      <br>\n' );
-document.write( '                      <span style=\"font-family: "arial" , "helvetica" , sans-serif;\"> Format : <REG>#<AGM>#<NAMA/KONTER>#<KOTA></span>\n' );
+document.write( '                      <span style=\"font-family: "arial" , "helvetica" , sans-serif;\"> Format : DAFTAR#<NAMA/KONTER>#<KOTA></span>\n' );
 document.write( '                      <br>\n' );
-document.write( '                      <span style=\"font-family: "arial" , "helvetica" , sans-serif;\"> Contoh : REG#AGM#JOKO#JAKARTA</span>\n' );
+document.write( '                      <span style=\"font-family: "arial" , "helvetica" , sans-serif;\"> Contoh : DAFTAR#JOKO#JAKARTA</span>\n' );
 document.write( '                    </li>\n' );
 document.write( '                    <br>\n' );
 document.write( '                    <li>\n' );
