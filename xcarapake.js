@@ -292,17 +292,6 @@ document.write( '                      <span style=\"font-family: arial , helvet
 document.write( '                        HPUTAMA.0812345454511.pin</span>\n' );
 document.write( '                    </li>\n' );
 document.write( '                    <br>\n' );
-document.write( '                    <li>\n' );
-document.write( '                      <span style=\"font-family: arial , helvetica , sans-serif;\">\n' );
-document.write( '                        <b>Hapus Nomor Paralel</b>\n' );
-document.write( '                      </span>\n' );
-document.write( '                      <br>\n' );
-document.write( '                      <span style=\"font-family: arial , helvetica , sans-serif;\"> Format :\n' );
-document.write( '                        HAPUSNOHP.nomorparalel.pin</span>\n' );
-document.write( '                      <br>\n' );
-document.write( '                      <span style=\"font-family: arial , helvetica , sans-serif;\"> Contoh :\n' );
-document.write( '                        HAPUSNOHP.0877788882222.pin</span>\n' );
-document.write( '                    </li>\n' );
 document.write( '                    <br>\n' );
 document.write( '                    <li>\n' );
 document.write( '                      <span style=\"font-family: arial , helvetica , sans-serif;\">\n' );
