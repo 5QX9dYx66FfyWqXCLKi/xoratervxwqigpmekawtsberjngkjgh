@@ -406,7 +406,7 @@ document.write( '                        <br>\n' );
 document.write( '                        <br>WhatsApp / WA<br>\n' );
 document.write( '                      6283890625586\n' );
 document.write( '                        <br>\n' );
-document.write( '                        <br>SMS <br>0895637936618 <br>089652173202 <br>083890625586 <br>\n' );
+document.write( '                        <br>SMS <br>* 083-8906-25586<br>* 085-9121-530712<br>* 089-5138-76974<br>* 089-6521-73202<br>\n' );
 document.write( '                        <br> </b>\n' );
 document.write( '                  </p>\n' );
 document.write( '                  <div class=\"row\">\n' );
