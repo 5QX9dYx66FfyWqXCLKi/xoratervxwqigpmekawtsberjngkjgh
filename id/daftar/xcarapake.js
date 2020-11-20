@@ -440,7 +440,7 @@ document.write( '                    <b>ctragm@xabber.org <br>ctragm@jabber.at<b
 document.write( '                    <br>\n' );
 document.write( '                    <b>ctr1000@jabbim.com <br>ctr2000@jabbim.com <br>ctr3000@jabb.im <br>ctr4000@jabb.im <br>ctr1000@xmpp.jp <br>ctr2000@xmpp.jp <br>ctr3000@xmpp.jp <br>ctr4000@xmpp.jp <br>\n' );
 document.write( '                      <br>GTALK / HANGOUT <br>ctr1000bot@gmail.com <br>ctr2000bot@gmail.com <br>ctr3000bot@gmail.com <br>\n' );
-document.write( '                      <br>SMS [ kusus pendaftaran ] <br>0895637936618 <br>089652173202 <br>083890625586 <br>\n' );
+document.write( '                      <br>SMS [ kusus pendaftaran ] <br>* 083-8906-25586<br>* 085-9121-530712<br>* 089-5138-76974<br>* 089-6521-73202<br>\n' );
 document.write( '                      <br> </b>\n' );
 document.write( '                  </p>\n' );
 document.write( '                  <div class=\"row\">\n' );
