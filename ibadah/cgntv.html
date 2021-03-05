@@ -7,8 +7,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
   <link rel="stylesheet" href="theme.css" type="text/css">
   <link rel="icon" href="upload/favicon.ico">
-  <title>Radio | AGM Pulsa</title>
-  <link rel="canonical" href="https://aksesglobalmultimedia.com/ibadah/radio.html">
+  <title>CGNTV | AGM Pulsa</title>
+  <link rel="canonical" href="https://aksesglobalmultimedia.com/ibadah/cgntv.html">
   <meta name="google-site-verification" content="google6b29cc12f454f7ff">
   <meta name="msvalidate.01" content="94F93C57F16633FD77232FEADCC2ECBC">
   <meta name="yandex-verification" content="b6e51b897eab6b44">
@@ -45,6 +45,12 @@
   <script data-ad-client="ca-pub-4116213103941802"  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <!-- ads 1 end-->
   <link rel="stylesheet" href="theme.css">
+  <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
+	<!-- JS code -->
+<!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+<script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.14.1/videojs-contrib-hls.js"></script>
+<script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
 </head>
 
 <body>
@@ -58,22 +64,18 @@
     </div>
   </nav>
   <br><br><br>
-  <div class="col-md-12">
-    <h4 class="text-dark pt-4 text-center"><b>Radio Getsemani FM</b></h4>
-  </div>
-  <br>
+  <div class="col-md-12"><br> 
   <center>
-  <h5 class=""><b>Play</b></h5>
-			<audio controls>
-				<source src="https://freeuk13.listen2myradio.com/live.mp3?typeportmount=s1_8656_stream_25769714" type="audio/mpeg" preload="auto" controls="autoplay"
-					style="width: 100%">
-				Your browser does not support the audio element.
-			</audio>
+			<video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto" data-setup='{}'>
+    <source src="http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8" type="application/x-mpegURL">
+  </video>
+
+<script>
+var player = videojs('my_video_1');
+player.play();
+</script>
           </center>
-  <center>
-	
-	<img src="http://aksesglobalmultimedia.com/radio/upload/getsemani.png" width="300" height="250" class="d-inline-block align-top mx-auto img-fluid" alt="donasi gopay">
-  </center><br><br>
+		  </div><br>
   
   <div class="bg-hitamdasar">
     <div class="container">
