@@ -65,6 +65,7 @@
     <link href="../gudang/main.css" rel="stylesheet" type="text/css">
     <link href="../gudang/read-along.css" rel="stylesheet" type="text/css">
     <link href="../gudang/fontello.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="progres-bar.css">
 </head>
 
 <body oncontextmenu="return false;" onkeydown="return false;" onmousedown="return false;" class="initialized modal-open" style="padding-right: 15px;"><span id="warning-container"><i
@@ -116,42 +117,13 @@
                     </div>
 
                     <br>
-                    <div class="nav-audio-player">
-                        <p class="loading" hidden="">
-                            <em><img src="../gudang/loader.gif" alt="Initializing audio"> Loading audio...</em>
-                        </p>
-                        <p class="passage-audio">
-                            <audio id="passage-audio" class="passage" preload="none" controls="controls" autoplay="true">
-                                <source src="https://d1qj9y79pcvssa.cloudfront.net/odb/id/id-odb-2021-04-30.mp3"
-                                    type="audio/mp3">
-                                <em class="error"><strong>Error:</strong> Your browser doesn't appear to support HTML5
-                                    Audio.</em>
-                            </audio>
-                        </p>
-                        <p class="passage-audio-unavailable" hidden="">
-                            <em class="error"><strong>Error:</strong> Maaf, audio tidak dapat diputar.</em>
-                        </p>
-                        <p class="playback-rate"
-                            title="Note that increaseing the reading rate will decrease accuracy of word highlights"
-                            hidden="">
-                            <label for="playback-rate">Reading rate:</label>
-                            <input id="playback-rate" type="range" min="0.5" max="2.0" value="1.0" step="0.1"
-                                onchange="this.nextElementSibling.textContent = String(Math.round(this.valueAsNumber * 10) / 10) + &quot;\u00D7&quot;;">
-                            <output>1×</output>
-                        </p>
-                        <p class="playback-rate-unavailable" hidden="">
-                            <em>(It seems your browser does not support <code>HTMLMediaElement.playbackRate</code>, so
-                                you will not be able to change the speech rate.)</em>
-                        </p>
-                        <p class="autofocus-current-word" hidden="">
-                            <input type="checkbox" id="autofocus-current-word" checked="checked">
-                            <label for="autofocus-current-word">Auto-focus/auto-scroll</label>
-                        </p>
-                        <noscript>
-                            <p class="error"><em><strong>Notice:</strong> You must have JavaScript enabled/available to
-                                    try this HTML5 Audio read along.</em></p>
-                        </noscript>
+                    <!-- Media Player-->
+                    <center>
+                    <div class="mediPlayer">
+                        <audio class="listen" preload="none" data-size="60" src="https://d1qj9y79pcvssa.cloudfront.net/odb/id/id-odb-2021-04-30.mp3" autoplay="true" loop="true"></audio>
                     </div>
+                </center>
+                    <!-- Media Player / -->
                 </div>
             </div>
         </div>
@@ -191,32 +163,15 @@
         </div>
     </div>
     <!-- ==========================   modal pasal end ======================== -->
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script src="player.js"></script>
 
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://karaoke.sabda.org/scripts/jquery.js"></script>
-    <script src="https://karaoke.sabda.org/scripts/bootstrap.min.js"></script>
-    <script src="https://karaoke.sabda.org/scripts/offcanvas.js"></script>
-    <script src="https://karaoke.sabda.org/scripts/main.js"></script>
-    <script src="https://karaoke.sabda.org/scripts/read-along.js"></script>
-    <script src="https://karaoke.sabda.org/scripts/audio-player.js"></script>
-    <script src="https://karaoke.sabda.org/scripts/html5lightbox/html5lightbox.js"></script>
-    <script src="https://karaoke.sabda.org/scripts/sticky.js"></script>
-    <script>
-        $(document).ready(function () {
-            $("#glyphicon-zoom-in").click(function () {
-                var size_str = $("#text-container").css("font-size");
-                var size = parseInt(size_str.substring(0, 2));
-                if (size < 25) size++;
-                $("#text-container").css("font-size", size + "px");
-            });
-            $("#glyphicon-zoom-out").click(function () {
-                var size_str = $("#text-container").css("font-size");
-                var size = parseInt(size_str.substring(0, 2));
-                if (size > 10) size--;
-                $("#text-container").css("font-size", size + "px");
-            });
-        });
-    </script>
+<script>
+    $(document).ready(function () {
+        $('.mediPlayer').mediaPlayer();
+    });
+</script>
+    
     <!-- ==========================   dibawah ini palsu ======================== -->
 
 </body>
