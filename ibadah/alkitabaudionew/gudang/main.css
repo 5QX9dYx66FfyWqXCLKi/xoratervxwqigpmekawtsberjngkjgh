@@ -1,0 +1,136 @@
+/*.my-button{
+	width: 50px;
+	background-color: #51ABF4;
+	color: #FFF;
+} */
+
+/*.lama{
+	width: 50px;
+	background-color: #EE575B;
+	color: #FFF;
+} */
+
+/*.pilkit{
+	width: 200px;
+	background-color: #85CB7A;
+	color: #FFF;
+} */
+
+h1.title-header {
+    font-family:Monotype Corsiva, Times, serif;
+}
+/*tambahan css*/
+.blue-button{
+	width: 45px;
+	background-color:#51ABF4 ;
+	color: #FFF;
+}
+
+.next-button{
+	width: 34px;
+	background-color:#AEAA0D;
+	color: #FFF;
+	padding: 0;
+	margin-top: 5px;
+}
+
+.red-button{
+	width: 45px;
+	background-color: #EE575B;
+	color: #FFF;
+}
+
+.kitab{
+	width: 100%;
+	background-color: #51ABF4;
+	color: #FFF;
+}
+
+.pilpal{
+	width: 200px;
+	background-color: #51ABF4;
+	color: #FFF;
+}
+
+.my-label{
+	width: 200px;
+	color: #FFF;
+}
+.suara{ width:100%;
+/*position:fixed;*/
+position:relative;
+}
+
+.footer-ku{
+	height:130px; 
+	background-color:#1D1D1D;
+	 width: 100%; 
+	 position: fixed; 
+	 bottom: -22px;
+	  left: 0px;
+}
+
+.header-two{
+	height: 0px; 
+	background-color:#1D1D1D;
+	 width: 100%; 
+	 position: fixed; 
+	 bottom: -35px;
+	  left: 0px;
+}
+
+.judul{
+position:fixed;
+}
+
+.footer-fix {
+	color: #FFFFFF;
+	margin-right: 0.5em;
+	margin-left: 0.5em;
+}
+
+.success-box{
+    background-color: #B0D2D9;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 400px;
+    padding: 10px;
+    border: 3px solid;
+    border-color: #540101;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.success-box div{
+    font-size: 18px;
+    font-weight: bold;
+    color: #A60004;
+}
+
+.success-box span{
+    color: red;
+}
+
+/*
+a.btn-pull-right:hover {
+background-color:#1E9D9D;
+width:50px;
+height:90px;
+}
+
+*/
+/*
+.about{
+ padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 250px;
+    padding-left: 250px;	
+}
+
+.page{
+	background-color:#3498db;
+} */
+.aksjawa {
+ font-family: Tuladha Jejeg; font-size: large; line-height: 3em; 
+}
