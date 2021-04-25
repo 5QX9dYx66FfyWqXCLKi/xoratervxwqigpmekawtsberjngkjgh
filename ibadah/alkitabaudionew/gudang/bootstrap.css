@@ -3768,7 +3768,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar {
   position: relative;
-  min-height: 50px;
+  min-height: 10px;
   margin-bottom: 20px;
   border: 1px solid transparent;
 }
@@ -5455,10 +5455,10 @@ button.close {
   padding: 15px;
 }
 .modal-footer {
-  padding: 15px;
-  padding-top: 15px;
+  padding: 1px;
+  padding-top: 1px;
     padding-right: 15px;
-    padding-bottom: 0;
+    padding-bottom: 1px;
     padding-left: 15px;
   text-align: right;
   border-top: 1px solid #e5e5e5;
