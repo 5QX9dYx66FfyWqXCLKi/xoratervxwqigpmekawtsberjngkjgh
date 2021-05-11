@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: aksesglobalmultimedia.com
+Token: 61d689293e5e4e3e1cfa0e1d1a2d7bb96d8cfb94a342576898cf14d84933374e
