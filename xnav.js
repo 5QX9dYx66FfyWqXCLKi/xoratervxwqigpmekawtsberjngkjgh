@@ -55,7 +55,7 @@ document.writeln("             </li> ");
 document.writeln("           </b> "); 
 document.writeln("           <b> "); 
 document.writeln("             <li class=\"nav-item\"> "); 
-document.writeln("               <a class=\"nav-link\" target=\"_blank\" href=\"https://aksesglobalmultimedia.com/webreporttgr.html\"><b>Web Reporting</b></a> "); 
+document.writeln("               <a class=\"nav-link\" target=\"_blank\" href=\"#\"><b>Web Reporting</b></a> "); 
 document.writeln("             </li> "); 
 document.writeln("           </b> "); 
 document.writeln("           <b> "); 
