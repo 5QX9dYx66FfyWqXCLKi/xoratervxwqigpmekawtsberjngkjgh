@@ -1,0 +1,72 @@
+@import url('../fa/css/font-awesome.css');
+.blink {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {  
+  50% { opacity: 0; }
+}
+.button-menu{
+	position: fixed;
+    bottom: -7px;
+    left: 0;
+    right: 0;
+    z-index: 999999;
+    border-top: 1px solid #ddd;
+    background-color: #fff;
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 8px 0px;
+	overflow:auto;
+	display:none;
+	font-style:normal !important;
+	text-align:center;
+	}
+.button-menu-item{
+	width:1000px;
+	height:60px;
+	display:inline-block;
+	}
+.button-menu-item a{
+	float:left;
+	width:100px;
+	height:60px;
+	border-right:1px solid #ccc;
+	padding:10px;
+	text-align:center;
+	font-size:12px;
+	color:#333;
+	font-style:normal !important;
+	}
+.button-menu-item span{
+	font-size:20px;
+	color:#c05657;
+	}
+.mute{
+	display: block;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 20px;
+	border-radius: 20px !important;
+	color: black !important;
+	background-color: white !important;
+	box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+	z-index: 9999;
+	}
+@media (max-width:900px){
+	.button-menu{
+		display:block;
+		}
+	.mute{
+		display: block;
+		position: fixed;
+		bottom: 80px;
+		right: 20px;
+		color: #ccc;
+		font-size: 20px;
+		}
+	}
+@media (max-width:768px){
+	iframe{
+		height:230px !important;
+		}
+	}
