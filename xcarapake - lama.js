@@ -466,7 +466,7 @@ document.writeln("                       <br> ");
 document.writeln("                       <br> </p> ");
 document.writeln("                     <img class=\"d-block img-fluid mx-auto rounded p-2\" src=\"upload/bri.jpg\" width=\"134\" height=\"40\"> ");
 document.writeln("                     <p class=\"text-center\"> ");
-document.writeln("                       <b>002801047027504 : a/n Daniel Corsel</b> ");
+document.writeln("                       <b>002801103250508 : a/n Daniel Corsel</b> ");
 document.writeln("                       <br> ");
 document.writeln("                       <br> </p> ");
 document.writeln("                     <img class=\"img-fluid d-block mx-auto p-2\" src=\"upload/bni.jpg\" width=\"134\" height=\"40\"> ");

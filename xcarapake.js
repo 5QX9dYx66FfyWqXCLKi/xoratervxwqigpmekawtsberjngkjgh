@@ -433,7 +433,7 @@ document.write( '                      <br>\n' );
 document.write( '                      <br> </p>\n' );
 document.write( '                    <img class=\"d-block img-fluid mx-auto rounded p-2\" src=\"upload/bri.jpg\" width=\"134\" height=\"40\">\n' );
 document.write( '                    <p class=\"text-center\">\n' );
-document.write( '                      <b>002801047027504 : a/n Daniel Corsel</b>\n' );
+document.write( '                      <b>002801103250508 : a/n Daniel Corsel</b>\n' );
 document.write( '                      <br>\n' );
 document.write( '                      <br> </p>\n' );
 document.write( '                    <img class=\"img-fluid d-block mx-auto p-2\" src=\"upload/bni.jpg\" width=\"134\" height=\"40\">\n' );
