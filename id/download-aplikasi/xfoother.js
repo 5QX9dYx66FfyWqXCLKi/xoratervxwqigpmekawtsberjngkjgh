@@ -16,7 +16,7 @@ document.write( '              </h3>\n' );
 document.write( '              <ul class=\"list-unstyled\">\n' );
 document.write( '                <span style=\"font-weight: normal;\"><a href=\"https://aksesglobalmultimedia.com/index.html\" class=\"text-white\">Home</a>\n' );
 document.write( '                  <br>\n' );
-document.write( '                  <a href=\"https://aksesglobalmultimedia.com/daftar-harga.html\" class=\"text-white\">Dafter Harga</a>\n' );
+document.write( '                  <a href=\"http://8.219.188.200:6968\" class=\"text-white\">Dafter Harga</a>\n' );
 document.write( '                  <br>\n' );
 document.write( '                  <a href=\"https://aksesglobalmultimedia.com/cara-transaksi.html\" class=\"text-white\">Cara Transaksi</a>\n' );
 document.write( '                  <br>\n' );
