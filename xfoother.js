@@ -49,10 +49,6 @@ document.writeln("                     <i class=\"fa d-inline mr-3 fa-map-marker
 document.writeln("                 </span><br> </p> ");
 document.writeln("             </div> ");
 document.writeln("           </div> ");
-document.writeln("           <div class=\"row\"> ");
-document.writeln("             <div class=\"col-md-12 mt-3\"> ");
-document.writeln("               <p class=\"text-center text-white\"><span style=\"font-weight: normal;\">Copyright &copy; 2014 - <script type="text/javascript">document.write(new Date().getFullYear());</script> <a style=\"color:with\" href=\"https://aksesglobalmultimedia.com/\" target=\"_blank\">AGM Pulsa dan PPOB</a> - All rights reserved. </span></p> ");
-document.writeln("             </div> ");
-document.writeln("           </div> ");
+document.write("<div class=\"row\">\r\n          <div class=\"col-md-12 mt-3\">\r\n            <p class=\"text-center text-white\">Copyright &copy; 2014 - <script type=\"text\/javascript\">document.write(new Date().getFullYear());<\/script> <a style=\"color:with\"\r\n                href=\"http:\/\/www.aksesglobalmultimedia.com\/index.html\" target=\"_blank\">AGM Pulsa dan PPOB<\/a> - All\r\n              rights reserved. <\/p>\r\n          <\/div>\r\n        <\/div>");
 document.writeln("         </div> ");
 document.writeln("       </div> ");
