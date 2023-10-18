@@ -36,7 +36,7 @@ document.write( '              <h3 class=\"mb-4 text-white\">\n' );
 document.write( '                <b>Contact</b>\n' );
 document.write( '              </h3>\n' );
 document.write( '              <p>\n' );
-document.write( '                <a href=\"https://telegram.me/csagm\" class=\"text-white\" target=\"_blank\" style=\"font-weight: normal;\">\n' );
+document.write( '                <a href=\"https://t.me/telegram\" class=\"text-white\" target=\"_blank\" style=\"font-weight: normal;\">\n' );
 document.write( '                  <i class=\"fa d-inline mr-3 text-secondary fa-telegram\"></i>+00000000000000 = @telegram</a>\n' );
 document.write( '              </p>\n' );
 document.write( '              <p>\n' );
