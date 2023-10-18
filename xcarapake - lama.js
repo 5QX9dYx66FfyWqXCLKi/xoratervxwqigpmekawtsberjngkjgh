@@ -471,7 +471,7 @@ document.writeln("                       <br> ");
 document.writeln("                       <br> </p> ");
 document.writeln("                     <img class=\"img-fluid d-block mx-auto p-2\" src=\"upload/bni.jpg\" width=\"134\" height=\"40\"> ");
 document.writeln("                     <p class=\"\"> ");
-document.writeln("                       <b>0673719166 : a/n Daniel Corsel</b> ");
+document.writeln("                       <b>0000000000 : a/n Daniel Corsel</b> ");
 document.writeln("                       <br> ");
 document.writeln("                       <br> </p> ");
 document.writeln("                     <img class=\"img-fluid d-block mx-auto p-2\" src=\"upload/mandiri.jpg\" width=\"134\" height=\"40\"> ");

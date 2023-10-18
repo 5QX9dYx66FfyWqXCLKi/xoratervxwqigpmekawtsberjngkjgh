@@ -471,7 +471,7 @@ document.write( '                      <br>\n' );
 document.write( '                      <br> </p>\n' );
 document.write( '                    <img class=\"img-fluid d-block mx-auto p-2\" src=\"upload/bni.jpg\" width=\"134\" height=\"40\">\n' );
 document.write( '                    <p class=\"\">\n' );
-document.write( '                      <b>0673719166 : a/n Daniel Corsel</b>\n' );
+document.write( '                      <b>0000000000 : a/n Daniel Corsel</b>\n' );
 document.write( '                      <br>\n' );
 document.write( '                      <br> </p>\n' );
 document.write( '                    <img class=\"img-fluid d-block mx-auto p-2\" src=\"upload/mandiri.jpg\" width=\"134\" height=\"40\">\n' );
