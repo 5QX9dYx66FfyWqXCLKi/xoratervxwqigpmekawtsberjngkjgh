@@ -49,7 +49,7 @@ document.write( '                  <i class=\"fa d-inline mr-3 text-secondary fa
 document.write( '              </p>\n' );
 document.write( '              <p>\n' );
 document.write( '                <span style=\"font-weight: normal;\"><a href=\"https://goo.gl/maps/ibp421n94d32\" class=\"text-white\" target=\"_blank\" style=\"\">\n' );
-document.write( '                    <i class=\"fa d-inline mr-3 fa-map-marker text-secondary\"></i> Jl Gunung rinjani Blok 8 No 11 Perum Margalaksana 1 Indramayu</a>\n' );
+document.write( '                    <i class=\"fa d-inline mr-3 fa-map-marker text-secondary\"></i> Jl Gunung rinjani Blok 8 No 11 Perum Margalaksana 1 Indramayu Jawa Barat</a>\n' );
 document.write( '                </span><br> </p>\n' );
 document.write( '            </div>\n' );
 document.write( '          </div>\n' );

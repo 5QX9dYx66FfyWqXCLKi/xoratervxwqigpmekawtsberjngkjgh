@@ -45,7 +45,7 @@ document.writeln("                   <i class=\"fa d-inline mr-3 text-secondary 
 document.writeln("               </p> ");
 document.writeln("               <p> ");
 document.writeln("                 <span style=\"font-weight: normal;\"><a href=\"https://goo.gl/maps/ibp421n94d32\" class=\"text-white\" target=\"_blank\" style=\"\"> ");
-document.writeln("                     <i class=\"fa d-inline mr-3 fa-map-marker text-secondary\"></i> Jl Gunung rinjani Blok 8 No 11 Perum Margalaksana 1 Indramayu</a> ");
+document.writeln("                     <i class=\"fa d-inline mr-3 fa-map-marker text-secondary\"></i> Jl Gunung rinjani Blok 8 No 11 Perum Margalaksana 1 Indramayu Jawa Barat</a> ");
 document.writeln("                 </span><br> </p> ");
 document.writeln("             </div> ");
 document.writeln("           </div> ");
