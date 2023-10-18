@@ -37,7 +37,7 @@ document.write( '                <b>Contact</b>\n' );
 document.write( '              </h3>\n' );
 document.write( '              <p>\n' );
 document.write( '                <a href=\"https://telegram.me/csagm\" class=\"text-white\" target=\"_blank\" style=\"font-weight: normal;\">\n' );
-document.write( '                  <i class=\"fa d-inline mr-3 text-secondary fa-telegram\"></i>+62895373048830 = @csagm</a>\n' );
+document.write( '                  <i class=\"fa d-inline mr-3 text-secondary fa-telegram\"></i>+00000000000000 = @telegram</a>\n' );
 document.write( '              </p>\n' );
 document.write( '              <p>\n' );
 document.write( '                <a href=\"tel:+6285642100966\" class=\"text-white\" style=\"font-weight: normal;\">\n' );
