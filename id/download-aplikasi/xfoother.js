@@ -55,7 +55,7 @@ document.write( '            </div>\n' );
 document.write( '          </div>\n' );
 document.write( '          <div class=\"row\">\n' );
 document.write( '            <div class=\"col-md-12 mt-3\">\n' );
-document.write( '              <p class=\"text-center text-white\"><span style=\"font-weight: normal;\">© Copyright 2019 <a style=\"color:with\" href=\"https://aksesglobalmultimedia.com/index.html\" target=\"_blank\">AGM Pulsa dan PPOB</a> - All rights reserved. </span></p>\n' );
+document.write( '              <p class=\"text-center text-white\"><span style=\"font-weight: normal;\">Copyright &copy; 2014 - <script type="text/javascript">document.write(new Date().getFullYear());</script> <a style=\"color:with\" href=\"https://aksesglobalmultimedia.com/index.html\" target=\"_blank\">AGM Pulsa dan PPOB</a> - All rights reserved. </span></p>\n' );
 document.write( '            </div>\n' );
 document.write( '          </div>\n' );
 document.write( '        </div>\n' );

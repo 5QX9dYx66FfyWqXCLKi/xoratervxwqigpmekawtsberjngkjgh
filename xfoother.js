@@ -51,7 +51,7 @@ document.writeln("             </div> ");
 document.writeln("           </div> ");
 document.writeln("           <div class=\"row\"> ");
 document.writeln("             <div class=\"col-md-12 mt-3\"> ");
-document.writeln("               <p class=\"text-center text-white\"><span style=\"font-weight: normal;\">© Copyright 2019 <a style=\"color:with\" href=\"https://aksesglobalmultimedia.com/\" target=\"_blank\">AGM Pulsa dan PPOB</a> - All rights reserved. </span></p> ");
+document.writeln("               <p class=\"text-center text-white\"><span style=\"font-weight: normal;\">Copyright &copy; 2014 - <script type="text/javascript">document.write(new Date().getFullYear());</script> <a style=\"color:with\" href=\"https://aksesglobalmultimedia.com/\" target=\"_blank\">AGM Pulsa dan PPOB</a> - All rights reserved. </span></p> ");
 document.writeln("             </div> ");
 document.writeln("           </div> ");
 document.writeln("         </div> ");
