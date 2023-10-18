@@ -6,7 +6,7 @@ document.writeln("               <h3 class=\"mb-4 text-white\"> ");
 document.writeln("                 <b>Cara Pendaftaran Master</b> ");
 document.writeln("               </h3> ");
 document.writeln("               <p class=\"text-white\"> ");
-document.writeln("                 <sp style=\"font-weight: normal;\">FORMAT :&nbsp; <br>DAFTAR#NAMA/KONTER#KOTA&nbsp; <br>Contoh : <br>DAFTAR#JOKO#JAKARTA&nbsp;<br>Kirim Ke Center :&nbsp;<br>089-5415-091175<br>083-8906-25586<br>085-9121-530712</sp> ");
+document.writeln("                 <sp style=\"font-weight: normal;\">FORMAT :&nbsp; <br>DAFTAR#NAMA/KONTER#KOTA&nbsp; <br>Contoh : <br>DAFTAR#JOKO#JAKARTA&nbsp;<br>Kirim Ke Center :&nbsp;<br>0831-4853-3712<br>0895-3419-60902<br></sp> ");
 document.writeln("               </p> ");
 document.writeln("             </div> ");
 document.writeln("             <div class=\"col-md-4 p-4\"> ");

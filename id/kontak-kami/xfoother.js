@@ -6,7 +6,7 @@ document.write( '              <h3 class=\"mb-4 text-white\">\n' );
 document.write( '                <b>Cara Pendaftaran Master</b>\n' );
 document.write( '              </h3>\n' );
 document.write( '              <p class=\"text-white\">\n' );
-document.write( '                <sp style=\"font-weight: normal;\">FORMAT :  <br>DAFTAR#NAMA/KONTER#KOTA  <br>Contoh : <br>DAFTAR#JOKO#JAKARTA <br>Kirim Ke Center : <br>0895-6379-36618<br>0838-9062-5586<br>0838-9062-5586</sp>\n' );
+document.write( '                <sp style=\"font-weight: normal;\">FORMAT :  <br>DAFTAR#NAMA/KONTER#KOTA  <br>Contoh : <br>DAFTAR#JOKO#JAKARTA <br>Kirim Ke Center : <br>0895-6379-36618<br>0895-3419-60902<br>0895-3419-60902</sp>\n' );
 document.write( '              </p>\n' );
 document.write( '            </div>\n' );
 document.write( '            <div class=\"col-md-4 p-4\">\n' );

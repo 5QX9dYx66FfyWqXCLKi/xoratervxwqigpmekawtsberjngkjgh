@@ -404,7 +404,7 @@ document.write( '                        <br>WhatsApp / WA<br>\n' );
 document.write( '                      +62895415091175<br>\n' );
 document.write( '                      +6283890625586\n' );
 document.write( '                        <br>\n' );
-document.write( '                        <br>SMS <br>* 089-5415-091175<br>* 085-9121-530712<br>* 083-8906-25586<br>\n' );
+document.write( '                        <br>SMS <br>* 0831-4853-3712<br>* <br>* 0895-3419-60902<br>\n' );
 document.write( '                        <br> </b>\n' );
 document.write( '                  </p>\n' );
 document.write( '                  <div class=\"row\">\n' );
