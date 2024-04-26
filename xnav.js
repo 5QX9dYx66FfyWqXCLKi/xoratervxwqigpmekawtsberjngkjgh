@@ -24,7 +24,7 @@ document.writeln("             </li> ");
 document.writeln("           </b> "); 
 document.writeln("           <b> "); 
 document.writeln("             <li class=\"nav-item\"> "); 
-document.writeln("               <a class=\"nav-link \" href=\"http://8.219.188.200:6968\"> "); 
+document.writeln("               <a class=\"nav-link \" href=\"http://8.219.188.200:9999\"> "); 
 document.writeln("                 <b>Harga Produk</b> "); 
 document.writeln("               </a> "); 
 document.writeln("             </li> "); 
